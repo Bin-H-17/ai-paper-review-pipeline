@@ -2,12 +2,13 @@ name: Release Drafter
 on:
   push:
     branches: [main]
-permissions:
-  contents: write
-  pull-requests: write
+permissions: read-all
 jobs:
   update_release_draft:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
     steps:
       - uses: release-drafter/release-drafter@v7
         env:
