@@ -1,0 +1,29 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Generated review output (per manuscript, repository root only)
+/review-pipeline/
+/01-quick-audit/
+/01b-bib-verify/
+/03-deep-review/
+/03b-rhetoric-debias/
+/05-code-verify/
+/proof-check/
+/MASTER_REPORT.md
+
+# Lean build artifacts
+lean/**/.lake/
+lean/**/build/

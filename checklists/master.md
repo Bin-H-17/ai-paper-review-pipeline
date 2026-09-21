@@ -1,0 +1,13 @@
+# Checklist
+- [ ] MASTER_REPORT.md 绝对路径
+- [ ] P0–P4 已跑或注明跳过
+- [ ] P2 prior 已 verify 或 [UNVERIFIED]
+- [ ] P3 已产出 `ADVERSARIAL_OVERVIEW.md`（六栏必答）
+- [ ] P3b 已产出 `RHETORIC_DEBIAS.md`（修辞偏见剥离审查）或注明低偏见风险跳过
+- [ ] MASTER 已填「对抗性总览」六栏摘要
+- [ ] 建模赛稿：已勾 `modeling-contest.md` 或注明跳过
+- [ ] P5 有码才验 / 无码注明
+- [ ] P6 applied/proposed；原稿未覆盖
+- [ ] P6 RHETORIC_OPTIMIZATION 已列出或注明无需
+- [ ] Claim Risk（smoke/未重算/无锚点强主张）已列出或注明无
+- [ ] 未宣称形式化证明；实验未代做
