@@ -1,5 +1,8 @@
 # Paper Review Pipeline / 论文审稿全流程
 
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/Bin-H-17/ai-paper-review-pipeline/badge)](https://securityscorecards.dev/viewer/?uri=github.com/Bin-H-17/ai-paper-review-pipeline)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 > 论文审稿 Skill：把 P0–P8 全流程拆成可执行阶段，产出结构化审稿报告。
 > **EN**: A paper-review skill: the P0–P8 pipeline as executable stages, producing a structured review report.
 
